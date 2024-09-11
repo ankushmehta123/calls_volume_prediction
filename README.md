@@ -8,7 +8,7 @@
 
 <h2>Notebook</h2>
 <ul>
-    <li><strong>main.ipynb</strong>: The primary Jupyter notebook that contains the implementation of the forecasting models. It includes code for data preprocessing, model training, evaluation, and visualization of results.</li>
+    <li><strong>main.ipynb</strong>: The primary Jupyter notebook that contains the implementation of the forecasting models. It includes code for data preprocessing, model training and evaluation.</li>
 </ul>
 
 <h2>Final Results</h2>
